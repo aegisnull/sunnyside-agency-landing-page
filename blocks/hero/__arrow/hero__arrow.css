@@ -1,2 +1,5 @@
 .hero__arrow {
+  display: block;
+  margin: auto;
+  padding-top: 120px;
 }
