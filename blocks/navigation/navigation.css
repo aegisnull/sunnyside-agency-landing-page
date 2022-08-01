@@ -1,6 +1,7 @@
 @import url(./__item/navigation__item.css);
 @import url(./__links/navigation__links.css);
 @import url(./__logo/navigation__logo.css);
+@import url(./__featured/navigation__featured.css);
 
 .navigation {
   display: flex;
