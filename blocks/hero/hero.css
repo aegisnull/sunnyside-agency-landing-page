@@ -4,6 +4,7 @@
 .hero {
   background-image: url(../../images/desktop/image-header.jpg);
   background-size: cover;
+  background-position: center;
   height: 100vh;
 }
 @media screen and (max-width: 768px) {
