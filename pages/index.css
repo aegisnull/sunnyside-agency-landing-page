@@ -3,6 +3,7 @@
 
 @import url(../blocks/navigation/navigation.css);
 @import url(../blocks/hero/hero.css);
+@import url(../blocks/hover/hover.css);
 
 :root {
   /** Primary colors variables **/
