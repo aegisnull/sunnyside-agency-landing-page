@@ -1,3 +1,5 @@
+@import url(../vendor/fonts.css);
+
 :root {
   /** Primary colors variables **/
   --softRed: hsl(7, 99%, 70%);
