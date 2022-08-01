@@ -1,3 +1,5 @@
+@import url(./_mobile/navigation__links_mobile.css);
+
 .navigation__links {
   display: flex;
   list-style: none;
@@ -6,4 +8,10 @@
 .navigation__links a {
   text-decoration: none;
   color: var(--white);
+}
+
+@media screen and (max-width: 550px) {
+  .navigation__links {
+    display: none;
+  }
 }

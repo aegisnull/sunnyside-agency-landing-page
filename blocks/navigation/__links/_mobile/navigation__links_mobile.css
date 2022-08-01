@@ -1,0 +1,13 @@
+.navigation__links_mobile {
+  display: none;
+}
+
+
+@media screen and (max-width: 550px) {
+    .navigation__links_mobile {
+      display: block;
+      background-image: url(../../../images/icon-hamburger.svg);
+      border: none;
+      background: transparent;
+    }
+  }
